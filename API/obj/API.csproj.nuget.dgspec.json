@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samson\\demo\\DatingApp\\API\\API.csproj": {}
+    "C:\\Users\\samson\\demo\\DatingApp\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samson\\demo\\DatingApp\\API\\API.csproj": {
+    "C:\\Users\\samson\\demo\\DatingApp\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samson\\demo\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\samson\\demo\\DatingApp\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\samson\\demo\\DatingApp\\API\\API.csproj",
+        "projectPath": "C:\\Users\\samson\\demo\\DatingApp\\api\\API.csproj",
         "packagesPath": "C:\\Users\\samson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samson\\demo\\DatingApp\\API\\obj\\",
+        "outputPath": "C:\\Users\\samson\\demo\\DatingApp\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\samson\\AppData\\Roaming\\NuGet\\NuGet.Config",
