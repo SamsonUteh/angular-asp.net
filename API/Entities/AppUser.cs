@@ -14,3 +14,5 @@ namespace API.Entities
         public byte[] PasswordSalt { get; set; }
     }
 }
+
+// The Entities folder is the same as the Models folder on visual studio
