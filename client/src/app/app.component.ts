@@ -23,12 +23,7 @@ export class AppComponent implements OnInit {
     this.accountService.setCurrentUser(user);
   }
 
-  tr(){
-    console.log('This is ');
-    this.toastr.error('Peace')
-    
-
-  }
+ 
 
  
 }
