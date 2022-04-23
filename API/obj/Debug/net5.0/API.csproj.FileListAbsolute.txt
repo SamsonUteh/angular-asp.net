@@ -69,3 +69,5 @@ C:\Users\samson\demo\DatingApp\api\bin\Debug\net5.0\Microsoft.Extensions.Depende
 C:\Users\samson\demo\DatingApp\api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
 C:\Users\samson\demo\DatingApp\api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
 C:\Users\samson\demo\DatingApp\api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\samson\demo\DatingApp\api\bin\Debug\net5.0\CloudinaryDotNet.dll
+C:\Users\samson\demo\DatingApp\api\bin\Debug\net5.0\Newtonsoft.Json.dll
